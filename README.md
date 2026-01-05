@@ -26,4 +26,4 @@ Website cho phép hiển thị hình ảnh, giá bán, xuất xứ, mô tả s�
 2. Chạy Apache và MySQL
 3. Import file `traicay_db.sql` vào phpMyAdmin
 4. Copy thư mục project vào `htdocs`
-5. Truy cập:  
+5. Truy cập:  localhost/traicay
