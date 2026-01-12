@@ -1,5 +1,7 @@
 # Website Bán trái cây nhập khẩu
-
+Tên sinh viên: Nguyễn Quốc Anh
+Lớp: DA23TTB
+Mã số sinh viên: 110123244
 ## Giới thiệu
 Đây là website quản lý và giới thiệu các loại trái cây nhập khẩu và trong nước.  
 Website cho phép hiển thị hình ảnh, giá bán, xuất xứ, mô tả sản phẩm và liên kết QR truy xuất nguồn gốc.
